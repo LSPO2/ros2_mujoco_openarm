@@ -1,0 +1,12 @@
+Thu Jan 15 07:32:33 2026
+ERROR: mj_copyDataVisual: attempting to copy mjData while stack is in use
+
+Thu Jan 15 16:25:57 2026
+ERROR: mj_copyDataVisual: attempting to copy mjData while stack is in use
+
+Thu Jan 15 17:26:57 2026
+ERROR: mjv_makeSceneState: mjvSceneState buffer is not fully used
+
+Thu Jan 15 17:28:01 2026
+ERROR: mjv_makeSceneState: mjvSceneState buffer is not fully used
+

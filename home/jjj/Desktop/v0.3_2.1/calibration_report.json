@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-01-15 17:29:31",
+  "calibration_matrix": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      NaN
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      NaN
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      NaN
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "num_pairs": 6,
+  "detected_count": 6,
+  "errors": {
+    "mean": NaN,
+    "max": NaN,
+    "std": NaN,
+    "mean_translation": NaN,
+    "max_translation": NaN,
+    "mean_rotation": 0.0,
+    "max_rotation": 0.0
+  },
+  "method": "original"
+}
